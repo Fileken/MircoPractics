@@ -4,7 +4,7 @@
 
 ПРАКТИКА(1)
 
-1 - https://wokwi.com/projects/410516041058102273 /n
+1 - https://wokwi.com/projects/410516041058102273 
 2 - https://wokwi.com/projects/410516195407511553
 3 - https://wokwi.com/projects/410516555729850369
 4 - https://wokwi.com/projects/410516674316505089
