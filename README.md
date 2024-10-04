@@ -32,12 +32,16 @@
 
 ПРАКТИКА(2)
 
-1 -
-2 -
-3 -
-4 -
-5 -
-6 -
-7 -
-8 -
-9 -
+1. Световые Эффекты - https://wokwi.com/projects/410817987031115777
+
+2. Дистанция до цели - https://wokwi.com/projects/410818244224874497
+
+3. Сигнализация - https://wokwi.com/projects/410818349517665281
+
+4. CoronaDetector(Температура) - https://wokwi.com/projects/410818545414807553
+
+5. Шлагбаум - https://wokwi.com/projects/410818836188175361
+
+6. Сервоприводы - https://wokwi.com/projects/410819025182544897
+
+7. Датчик, дисплей, кнопка - https://wokwi.com/projects/410819169887118337
