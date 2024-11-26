@@ -42,9 +42,9 @@
 
 5. Шлагбаум - https://wokwi.com/projects/410818836188175361
 
-
-ЛАБОРАТОРНАЯ РАБОТА 1 - https://wokwi.com/projects/415648105725446145
-
 6. Сервоприводы - https://wokwi.com/projects/410819025182544897
 
 7. Датчик, дисплей, кнопка - https://wokwi.com/projects/410819169887118337
+
+
+ЛАБОРАТОРНАЯ РАБОТА 1 - https://wokwi.com/projects/415648105725446145
